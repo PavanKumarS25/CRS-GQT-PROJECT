@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.gqt.crs.entity;
+
+/**
+ * @author Pavan
+ *
+ */
+public class Course {
+
+}
